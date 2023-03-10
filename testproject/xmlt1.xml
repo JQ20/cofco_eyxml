@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ufinterface account="1"
+             billtype="vouchergl"
+             businessunitcode=""
+             filename=""
+             groupcode="1"
+             isexchange=""
+             orgcode="2478"
+             receiver="2478-0003"
+             replace=""
+             roottag=""
+             sender="247801">
+    <voucher id="20220411001A">
+        <voucher_head>
+            <pk_voucher />
+            <pk_vouchertype>01</pk_vouchertype>
+            <year>2023</year>
+            <pk_system>GL</pk_system>
+            <voucherkind>0</voucherkind>
+            <pk_accountingbook>2478-0003</pk_accountingbook>
+            <discardflag>N</discardflag>
+            <period>09</period>
+            <no xmlns="0" />
+            <attachment>0</attachment>
+            <prepareddate>2023-02-13 16:16:16</prepareddate>
+            <pk_prepared>XGIT</pk_prepared>
+            <pk_casher />
+            <signflag>Y</signflag>
+            <pk_checked />
+            <tallydate />
+            <pk_manager />
+            <memo1 />
+            <memo2 />
+            <reserve1 />
+            <reserve2>N</reserve2>
+            <siscardflag />
+            <pk_org>2478</pk_org>
+            <pk_org_v>2478</pk_org_v>
+            <pk_group>1</pk_group>
+            <details>
+                <item>
+                    <detailindex>113</detailindex>
+                    <explanation>2022-04-11 入金  客戶號：100100 HKD391,500.00</explanation>
+                    <verifydate>2023-02-13 16:16:16</verifydate>
+                    <price>0.00000000</price>
+                    <excrate2>1</excrate2>
+                    <debitquantity>0.00000000</debitquantity>
+                    <debitamount>391500</debitamount>
+                    <localdebitamount>391500</localdebitamount>
+                    <groupdebitamount>0.00000000</groupdebitamount>
+                    <globaldebitamount>0.00000000</globaldebitamount>
+                    <pk_currtype>HKD</pk_currtype>
+                    <pk_accasoa>100403</pk_accasoa>
+                    <ass>
+                        <item>
+                            <pk_Checktype>0011</pk_Checktype>
+                            <pk_Checkvalue>01287520222813</pk_Checkvalue>
+                        </item>
+                        <item>
+                            <pk_Checktype>ZLZB0001</pk_Checktype>
+                            <pk_Checkvalue>01</pk_Checkvalue>
+                        </item>
+                    </ass>
+                    <cashFlow>
+                        <item>
+                            <m_pk_currtype>HKD</m_pk_currtype>
+                            <money>391500</money>
+                            <moneymain>391500</moneymain>
+                            <moneyglobal />
+                            <moneygroup />
+                            <pk_cashflow />
+                        </item>
+                    </cashFlow>
+                </item>
+                <item>
+                    <detailindex>114</detailindex>
+                    <explanation>2022-04-11 入金  客戶號：100100 HKD391,500.00</explanation>
+                    <verifydate>2023-02-13 16:16:16</verifydate>
+                    <price>0.00000000</price>
+                    <excrate2>1</excrate2>
+                    <creditquantity>0.00000000</creditquantity>
+                    <creditamount>391500</creditamount>
+                    <localcreditamount>391500</localcreditamount>
+                    <groupcreditamount>0.00000000</groupcreditamount>
+                    <globalcreditamount>0.00000000</globalcreditamount>
+                    <pk_currtype>HKD</pk_currtype>
+                    <pk_accasoa>220403</pk_accasoa>
+                    <ass>
+                        <item>
+                            <pk_Checktype>0004</pk_Checktype>
+                            <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+                        </item>
+                    </ass>
+                    <cashFlow>
+                        <item>
+                            <m_pk_currtype>HKD</m_pk_currtype>
+                            <money>391500</money>
+                            <moneymain>391500</moneymain>
+                            <moneyglobal />
+                            <moneygroup />
+                            <pk_cashflow />
+                        </item>
+                    </cashFlow>
+                </item>
+                <item>
+                    <detailindex>115</detailindex>
+                    <explanation>2022-04-11 入金  客戶號：174227 USD15,000.00</explanation>
+                    <verifydate>2023-02-13 16:16:16</verifydate>
+                    <price>0.00000000</price>
+                    <excrate2>1</excrate2>
+                    <debitquantity>0.00000000</debitquantity>
+                    <debitamount>117493.2</debitamount>
+                    <localdebitamount>117493.2</localdebitamount>
+                    <groupdebitamount>0.00000000</groupdebitamount>
+                    <globaldebitamount>0.00000000</globaldebitamount>
+                    <pk_currtype>HKD</pk_currtype>
+                    <pk_accasoa>100402</pk_accasoa>
+                    <ass>
+                        <item>
+                            <pk_Checktype>0011</pk_Checktype>
+                            <pk_Checkvalue>01287520222826</pk_Checkvalue>
+                        </item>
+                        <item>
+                            <pk_Checktype>ZLZB0001</pk_Checktype>
+                            <pk_Checkvalue>01</pk_Checkvalue>
+                        </item>
+                    </ass>
+                    <cashFlow>
+                        <item>
+                            <m_pk_currtype>HKD</m_pk_currtype>
+                            <money>117493.2</money>
+                            <moneymain>117493.2</moneymain>
+                            <moneyglobal />
+                            <moneygroup />
+                            <pk_cashflow />
+                        </item>
+                    </cashFlow>
+                </item>
+                <item>
+                    <detailindex>115</detailindex>
+                    <explanation>2022-04-11 入金  客戶號：174227 USD15,000.00</explanation>
+                    <verifydate>2023-02-13 16:16:16</verifydate>
+                    <price>0.00000000</price>
+                    <excrate2>1</excrate2>
+                    <debitquantity>0.00000000</debitquantity>
+                    <debitamount>117493.2</debitamount>
+                    <localdebitamount>117493.2</localdebitamount>
+                    <groupdebitamount>0.00000000</groupdebitamount>
+                    <globaldebitamount>0.00000000</globaldebitamount>
+                    <pk_currtype>HKD</pk_currtype>
+                    <pk_accasoa>100402</pk_accasoa>
+                    <ass>
+                        <item>
+                            <pk_Checktype>0011</pk_Checktype>
+                            <pk_Checkvalue>01287520222826</pk_Checkvalue>
+                        </item>
+                        <item>
+                            <pk_Checktype>ZLZB0001</pk_Checktype>
+                            <pk_Checkvalue>01</pk_Checkvalue>
+                        </item>
+                    </ass>
+                    <cashFlow>
+                        <item>
+                            <m_pk_currtype>HKD</m_pk_currtype>
+                            <money>117493.2</money>
+                            <moneymain>117493.2</moneymain>
+                            <moneyglobal />
+                            <moneygroup />
+                            <pk_cashflow />
+                        </item>
+                    </cashFlow>
+                </item>
+                <item>
+                    <detailindex>115</detailindex>
+                    <explanation>2022-04-11 入金  客戶號：174227 USD15,000.00</explanation>
+                    <verifydate>2023-02-13 16:16:16</verifydate>
+                    <price>0.00000000</price>
+                    <excrate2>1</excrate2>
+                    <debitquantity>0.00000000</debitquantity>
+                    <debitamount>117493.2</debitamount>
+                    <localdebitamount>117493.2</localdebitamount>
+                    <groupdebitamount>0.00000000</groupdebitamount>
+                    <globaldebitamount>0.00000000</globaldebitamount>
+                    <pk_currtype>HKD</pk_currtype>
+                    <pk_accasoa>100402</pk_accasoa>
+                    <ass>
+                        <item>
+                            <pk_Checktype>0011</pk_Checktype>
+                            <pk_Checkvalue>01287520222826</pk_Checkvalue>
+                        </item>
+                        <item>
+                            <pk_Checktype>ZLZB0001</pk_Checktype>
+                            <pk_Checkvalue>01</pk_Checkvalue>
+                        </item>
+                    </ass>
+                    <cashFlow>
+                        <item>
+                            <m_pk_currtype>HKD</m_pk_currtype>
+                            <money>117493.2</money>
+                            <moneymain>117493.2</moneymain>
+                            <moneyglobal />
+                            <moneygroup />
+                            <pk_cashflow />
+                        </item>
+                    </cashFlow>
+                </item>
+            </details>
+        </voucher_head>
+    </voucher>
+</ufinterface>

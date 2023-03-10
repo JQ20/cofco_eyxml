@@ -1,0 +1,1185 @@
+<ufinterface xmlns:ns0="0" account="1" billtype="vouchergl" businessunitcode="" filename="" groupcode="1" isexchange="" orgcode="2478" receiver="2478-0003" replace="" roottag="" sender="247801">
+  <voucher id="20230302000A">
+    <voucher_head>
+      <pk_voucher />
+      <pk_vouchertype>01</pk_vouchertype>
+      <year>2023</year>
+      <pk_system>GL</pk_system>
+      <voucherkind>0</voucherkind>
+      <pk_accountingbook>2478-0003</pk_accountingbook>
+      <discardflag>N</discardflag>
+      <period>09</period>
+      <ns0:no />
+      <attachment>0</attachment>
+      <prepareddate>2023-03-02 16:50:23</prepareddate>
+      <pk_prepared>XGIT</pk_prepared>
+      <pk_casher />
+      <signflag>Y</signflag>
+      <pk_checked />
+      <tallydate />
+      <pk_manager />
+      <memo1 />
+      <memo2 />
+      <reserve1 />
+      <reserve2>N</reserve2>
+      <siscardflag />
+      <pk_org>2478</pk_org>
+      <pk_org_v>2478</pk_org_v>
+      <pk_group>1</pk_group>
+      <details>
+        <item>
+          <detailindex>1</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20837;&#37329; &#23458;&#25142;&#34399;&#65306;105002 CNH4,253.92</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>618.37</debitamount>
+          <localdebitamount>618.37</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>618.37</money>
+              <moneymain>618.37</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>2</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20837;&#37329; &#23458;&#25142;&#34399;&#65306;105002 CNH4,253.92</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>618.37</creditamount>
+          <localcreditamount>618.37</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>618.37</money>
+              <moneymain>618.37</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>3</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20986;&#37329; &#23458;&#25142;&#34399;&#65306;105002 USD615.89</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>615.89</debitamount>
+          <localdebitamount>615.89</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>615.89</money>
+              <moneymain>615.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>4</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20986;&#37329; &#23458;&#25142;&#34399;&#65306;105002 USD615.89</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>615.89</creditamount>
+          <localcreditamount>615.89</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>615.89</money>
+              <moneymain>615.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>5</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20837;&#37329; &#23458;&#25142;&#34399;&#65306;106666 USD3,250.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>3250</debitamount>
+          <localdebitamount>3250</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3250</money>
+              <moneymain>3250</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>6</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20837;&#37329; &#23458;&#25142;&#34399;&#65306;106666 USD3,250.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>3250</creditamount>
+          <localcreditamount>3250</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3250</money>
+              <moneymain>3250</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>7</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20986;&#37329; &#23458;&#25142;&#34399;&#65306;106666 CNH22,457.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>3264.53</debitamount>
+          <localdebitamount>3264.53</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3264.53</money>
+              <moneymain>3264.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>8</detailindex>
+          <explanation>2023-03-02 &#25563;&#21295; &#20986;&#37329; &#23458;&#25142;&#34399;&#65306;106666 CNH22,457.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>3264.53</creditamount>
+          <localcreditamount>3264.53</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3264.53</money>
+              <moneymain>3264.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>9</detailindex>
+          <explanation>2023-03-02 &#20854;&#20182;  &#19978;&#25163;&#34399;&#65306;CGSSG MYR282.60</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>63.44</debitamount>
+          <localdebitamount>63.44</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>63.44</money>
+              <moneymain>63.44</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>10</detailindex>
+          <explanation>2023-03-02 &#20854;&#20182;  &#19978;&#25163;&#34399;&#65306;CGSSG MYR282.60</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>63.44</creditamount>
+          <localcreditamount>63.44</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>63.44</money>
+              <moneymain>63.44</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>11</detailindex>
+          <explanation>2023-03-02 &#25163;&#32396;&#36027;&#35519;&#25972;  &#19978;&#25163;&#34399;&#65306;CGSSG USD63.25</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>63.25</debitamount>
+          <localdebitamount>63.25</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>12</detailindex>
+          <explanation>2023-03-02 &#25163;&#32396;&#36027;&#35519;&#25972;  &#19978;&#25163;&#34399;&#65306;CGSSG USD63.25</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>63.25</creditamount>
+          <localcreditamount>63.25</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>13</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 7,044.80</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>7044.8</creditamount>
+          <localcreditamount>7044.8</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>7044.8</money>
+              <moneymain>7044.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>14</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#23458;&#25142;&#21512;&#35336; &#22522;&#24163; 7,044.80</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>7044.8</debitamount>
+          <localdebitamount>7044.8</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>7044.8</money>
+              <moneymain>7044.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>15</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 1,433,923.75</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1433923.75</debitamount>
+          <localdebitamount>1433923.75</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1433923.75</money>
+              <moneymain>1433923.75</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>16</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 11,525,000.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>11525000</debitamount>
+          <localdebitamount>11525000</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>11525000</money>
+              <moneymain>11525000</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>17</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 645,480.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>645480</debitamount>
+          <localdebitamount>645480</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>645480</money>
+              <moneymain>645480</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>18</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#23458;&#25142;&#21512;&#35336; &#22522;&#24163; 1,433,923.75</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1433923.75</creditamount>
+          <localcreditamount>1433923.75</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1433923.75</money>
+              <moneymain>1433923.75</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>19</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#23458;&#25142;&#21512;&#35336; &#22522;&#24163; 11,525,000.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>11525000</creditamount>
+          <localcreditamount>11525000</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>11525000</money>
+              <moneymain>11525000</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>20</detailindex>
+          <explanation>2023-03-01 &#26399;&#27402;&#24066;&#20540;  &#23458;&#25142;&#21512;&#35336; &#22522;&#24163; 645,480.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>645480</creditamount>
+          <localcreditamount>645480</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>645480</money>
+              <moneymain>645480</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>21</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 6,224.26</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>6224.26</creditamount>
+          <localcreditamount>6224.26</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6224.26</money>
+              <moneymain>6224.26</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>22</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 146.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>146</creditamount>
+          <localcreditamount>146</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>146</money>
+              <moneymain>146</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>23</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 6,224.26</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>6224.26</debitamount>
+          <localdebitamount>6224.26</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6224.26</money>
+              <moneymain>6224.26</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>24</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 146.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>146</debitamount>
+          <localdebitamount>146</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>146</money>
+              <moneymain>146</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>25</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 235.20</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>235.2</debitamount>
+          <localdebitamount>235.2</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>235.2</money>
+              <moneymain>235.2</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>26</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 2,900,362.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2900362.5</debitamount>
+          <localdebitamount>2900362.5</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2900362.5</money>
+              <moneymain>2900362.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>27</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 54,867.99</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>54867.99</debitamount>
+          <localdebitamount>54867.99</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54867.99</money>
+              <moneymain>54867.99</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>28</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 34,640.35</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>34640.35</debitamount>
+          <localdebitamount>34640.35</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>34640.35</money>
+              <moneymain>34640.35</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>29</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 10,575,712.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>10575712.5</debitamount>
+          <localdebitamount>10575712.5</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10575712.5</money>
+              <moneymain>10575712.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>30</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 13,623,631.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>13623631</debitamount>
+          <localdebitamount>13623631</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>13623631</money>
+              <moneymain>13623631</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>31</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 256,672.66</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>256672.66</debitamount>
+          <localdebitamount>256672.66</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>256672.66</money>
+              <moneymain>256672.66</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>32</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 1,100,107.88</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1100107.88</debitamount>
+          <localdebitamount>1100107.88</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1100107.88</money>
+              <moneymain>1100107.88</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>33</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#19978;&#25163;&#21512;&#35336; &#22522;&#24163; 33,762.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>33762.5</debitamount>
+          <localdebitamount>33762.5</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>33762.5</money>
+              <moneymain>33762.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>34</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 235.20</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>235.2</creditamount>
+          <localcreditamount>235.2</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>235.2</money>
+              <moneymain>235.2</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>35</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 2,900,362.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2900362.5</creditamount>
+          <localcreditamount>2900362.5</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2900362.5</money>
+              <moneymain>2900362.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>36</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 54,867.99</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>54867.99</creditamount>
+          <localcreditamount>54867.99</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54867.99</money>
+              <moneymain>54867.99</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>37</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 34,640.35</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>34640.35</creditamount>
+          <localcreditamount>34640.35</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>34640.35</money>
+              <moneymain>34640.35</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>38</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 10,575,712.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>10575712.5</creditamount>
+          <localcreditamount>10575712.5</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10575712.5</money>
+              <moneymain>10575712.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>39</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 13,623,631.00</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>13623631</creditamount>
+          <localcreditamount>13623631</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>13623631</money>
+              <moneymain>13623631</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>40</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 256,672.66</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>256672.66</creditamount>
+          <localcreditamount>256672.66</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>256672.66</money>
+              <moneymain>256672.66</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>41</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 1,100,107.88</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1100107.88</creditamount>
+          <localcreditamount>1100107.88</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1100107.88</money>
+              <moneymain>1100107.88</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>42</detailindex>
+          <explanation>2023-03-01 &#28014;&#21205;&#30408;&#34407;  &#23458;&#25143;&#21512;&#35336; &#22522;&#24163; 33,762.50</explanation>
+          <verifydate>2023-03-02 16:50:23</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>33762.5</creditamount>
+          <localcreditamount>33762.5</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>33762.5</money>
+              <moneymain>33762.5</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+      </details>
+    </voucher_head>
+  </voucher>
+</ufinterface>
