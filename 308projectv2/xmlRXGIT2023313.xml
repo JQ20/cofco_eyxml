@@ -1,0 +1,4651 @@
+<ufinterface xmlns:ns0="0" account="1" billtype="vouchergl" businessunitcode="" filename="" groupcode="1" isexchange="" orgcode="2478" receiver="2478-0003" replace="" roottag="" sender="247801">
+  <voucher id="20220328000A">
+    <voucher_head>
+      <pk_voucher />
+      <pk_vouchertype>01</pk_vouchertype>
+      <year>2023</year>
+      <pk_system>GL</pk_system>
+      <voucherkind>0</voucherkind>
+      <pk_accountingbook>2478-0003</pk_accountingbook>
+      <discardflag>N</discardflag>
+      <period>09</period>
+      <ns0:no />
+      <attachment>0</attachment>
+      <prepareddate>2023-03-13 11:10:32</prepareddate>
+      <pk_prepared>XGIT</pk_prepared>
+      <pk_casher />
+      <signflag>Y</signflag>
+      <pk_checked />
+      <tallydate />
+      <pk_manager />
+      <memo1 />
+      <memo2 />
+      <reserve1 />
+      <reserve2>N</reserve2>
+      <siscardflag />
+      <pk_org>2478</pk_org>
+      <pk_org_v>2478</pk_org_v>
+      <pk_group>1</pk_group>
+      <details>
+        <item>
+          <detailindex>1</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：198888 CNH417,054.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>515844.4</debitamount>
+          <localdebitamount>515844.4</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>515844.4</money>
+              <moneymain>515844.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>2</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：198888 CNH417,054.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>515844.4</creditamount>
+          <localcreditamount>515844.4</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>515844.4</money>
+              <moneymain>515844.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>3</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：198888 USD65,266.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>510077.3</debitamount>
+          <localdebitamount>510077.3</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>510077.3</money>
+              <moneymain>510077.3</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>4</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：198888 USD65,266.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>510077.3</creditamount>
+          <localcreditamount>510077.3</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>510077.3</money>
+              <moneymain>510077.3</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>5</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：103594 USD4,092.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>31980.13</debitamount>
+          <localdebitamount>31980.13</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31980.13</money>
+              <moneymain>31980.13</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>6</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：103594 USD4,092.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>31980.13</creditamount>
+          <localcreditamount>31980.13</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31980.13</money>
+              <moneymain>31980.13</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>7</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：103594 HKD32,038.31</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>32038.31</debitamount>
+          <localdebitamount>32038.31</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>32038.31</money>
+              <moneymain>32038.31</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>8</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：103594 HKD32,038.31</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>32038.31</creditamount>
+          <localcreditamount>32038.31</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>32038.31</money>
+              <moneymain>32038.31</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>9</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：102023 MYR154,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>291500.56</debitamount>
+          <localdebitamount>291500.56</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>291500.56</money>
+              <moneymain>291500.56</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>10</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：102023 MYR154,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>291500.56</creditamount>
+          <localcreditamount>291500.56</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>291500.56</money>
+              <moneymain>291500.56</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>11</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：102023 USD36,666.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>286560.29</debitamount>
+          <localdebitamount>286560.29</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>286560.29</money>
+              <moneymain>286560.29</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>12</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：102023 USD36,666.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>286560.29</creditamount>
+          <localcreditamount>286560.29</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>286560.29</money>
+              <moneymain>286560.29</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>13</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：101023 MYR1,564,475.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2961333.4</debitamount>
+          <localdebitamount>2961333.4</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2961333.4</money>
+              <moneymain>2961333.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>14</detailindex>
+          <explanation>2022-03-28 換匯 入金 客戶號：101023 MYR1,564,475.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2961333.4</creditamount>
+          <localcreditamount>2961333.4</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2961333.4</money>
+              <moneymain>2961333.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>15</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：101023 USD372,494.05</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2911145.27</debitamount>
+          <localdebitamount>2911145.27</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2911145.27</money>
+              <moneymain>2911145.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>16</detailindex>
+          <explanation>2022-03-28 換匯 出金 客戶號：101023 USD372,494.05</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2911145.27</creditamount>
+          <localcreditamount>2911145.27</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2911145.27</money>
+              <moneymain>2911145.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>17</detailindex>
+          <explanation>2022-03-28 出金  客戶號：129998 USD33,333.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>260506.73</debitamount>
+          <localdebitamount>260506.73</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>800050001214</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>260506.73</money>
+              <moneymain>260506.73</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>18</detailindex>
+          <explanation>2022-03-28 出金  客戶號：129998 USD33,333.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>260506.73</creditamount>
+          <localcreditamount>260506.73</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>800050001214</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>260506.73</money>
+              <moneymain>260506.73</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>19</detailindex>
+          <explanation>2022-03-28 入金  客戶號：100002 USD5,000,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>39076399.6</debitamount>
+          <localdebitamount>39076399.6</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>USD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>USD</m_pk_currtype>
+              <money>39076399.6</money>
+              <moneymain>39076399.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>20</detailindex>
+          <explanation>2022-03-28 入金  客戶號：100002 USD5,000,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>39076399.6</creditamount>
+          <localcreditamount>39076399.6</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>39076399.6</money>
+              <moneymain>39076399.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>21</detailindex>
+          <explanation>2022-03-28 入金  客戶號：198888 USD300,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2344583.98</debitamount>
+          <localdebitamount>2344583.98</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>USD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>USD</m_pk_currtype>
+              <money>2344583.98</money>
+              <moneymain>2344583.98</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>22</detailindex>
+          <explanation>2022-03-28 入金  客戶號：198888 USD300,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2344583.98</creditamount>
+          <localcreditamount>2344583.98</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2344583.98</money>
+              <moneymain>2344583.98</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>23</detailindex>
+          <explanation>2022-03-28 入金  客戶號：167489 USD1,275.08</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>9965.11</debitamount>
+          <localdebitamount>9965.11</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>USD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>USD</m_pk_currtype>
+              <money>9965.11</money>
+              <moneymain>9965.11</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>24</detailindex>
+          <explanation>2022-03-28 入金  客戶號：167489 USD1,275.08</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>9965.11</creditamount>
+          <localcreditamount>9965.11</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>9965.11</money>
+              <moneymain>9965.11</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>25</detailindex>
+          <explanation>2022-03-28 入金  客戶號：100002 USD9,447.63</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>73835.87</debitamount>
+          <localdebitamount>73835.87</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>USD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>USD</m_pk_currtype>
+              <money>73835.87</money>
+              <moneymain>73835.87</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>26</detailindex>
+          <explanation>2022-03-28 入金  客戶號：100002 USD9,447.63</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>73835.87</creditamount>
+          <localcreditamount>73835.87</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>73835.87</money>
+              <moneymain>73835.87</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>27</detailindex>
+          <explanation>2022-03-28 入金  上手號：HGNHCME USD11,999,979.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>93783194.92</debitamount>
+          <localdebitamount>93783194.92</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>93783194.92</money>
+              <moneymain>93783194.92</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>28</detailindex>
+          <explanation>2022-03-28 入金  上手號：HGNHCME USD11,999,979.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>93783194.92</creditamount>
+          <localcreditamount>93783194.92</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>93783194.92</money>
+              <moneymain>93783194.92</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>29</detailindex>
+          <explanation>2022-03-28 出金  上手號：HGNHCME USD28,000,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>218827837.76</creditamount>
+          <localcreditamount>218827837.76</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>218827837.76</money>
+              <moneymain>218827837.76</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>30</detailindex>
+          <explanation>2022-03-28 出金  上手號：HGNHCME USD28,000,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>218827837.76</debitamount>
+          <localdebitamount>218827837.76</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>218827837.76</money>
+              <moneymain>218827837.76</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        <ass><item><pk_Checktype>0011</pk_Checktype><pk_Checkvalue>01287520222826</pk_Checkvalue></item><item><pk_Checktype>ZLZB0001</pk_Checktype><pk_Checkvalue>01</pk_Checkvalue></item></ass></item>
+        <item>
+          <detailindex>31</detailindex>
+          <explanation>2022-03-28 入金  上手號：PHLSGCQG02 USD3,999,998.08</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>31261104.67</debitamount>
+          <localdebitamount>31261104.67</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31261104.67</money>
+              <moneymain>31261104.67</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>32</detailindex>
+          <explanation>2022-03-28 入金  上手號：PHLSGCQG02 USD3,999,998.08</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>31261104.67</creditamount>
+          <localcreditamount>31261104.67</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>100402</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0011</pk_Checktype>
+              <pk_Checkvalue>01287520222826</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0001</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31261104.67</money>
+              <moneymain>31261104.67</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>33</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG MYR550.80</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1042.59</debitamount>
+          <localdebitamount>1042.59</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1042.59</money>
+              <moneymain>1042.59</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>34</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG MYR550.80</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1042.59</creditamount>
+          <localcreditamount>1042.59</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1042.59</money>
+              <moneymain>1042.59</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>35</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG USD131.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1023.8</debitamount>
+          <localdebitamount>1023.8</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1023.8</money>
+              <moneymain>1023.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>36</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG USD131.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1023.8</creditamount>
+          <localcreditamount>1023.8</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1023.8</money>
+              <moneymain>1023.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>37</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD65,266.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>510077.3</debitamount>
+          <localdebitamount>510077.3</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>510077.3</money>
+              <moneymain>510077.3</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>38</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD65,266.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>510077.3</creditamount>
+          <localcreditamount>510077.3</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>510077.3</money>
+              <moneymain>510077.3</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>39</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 CNH417,054.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>515844.4</debitamount>
+          <localdebitamount>515844.4</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>515844.4</money>
+              <moneymain>515844.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>40</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 CNH417,054.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>515844.4</creditamount>
+          <localcreditamount>515844.4</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>515844.4</money>
+              <moneymain>515844.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>41</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 HKD32,038.31</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>32038.31</debitamount>
+          <localdebitamount>32038.31</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>32038.31</money>
+              <moneymain>32038.31</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>42</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 HKD32,038.31</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>32038.31</creditamount>
+          <localcreditamount>32038.31</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>32038.31</money>
+              <moneymain>32038.31</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>43</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD4,092.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>31980.13</debitamount>
+          <localdebitamount>31980.13</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31980.13</money>
+              <moneymain>31980.13</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>44</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD4,092.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>31980.13</creditamount>
+          <localcreditamount>31980.13</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>31980.13</money>
+              <moneymain>31980.13</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>45</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD36,666.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>286560.29</debitamount>
+          <localdebitamount>286560.29</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>286560.29</money>
+              <moneymain>286560.29</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>46</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD36,666.67</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>286560.29</creditamount>
+          <localcreditamount>286560.29</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>286560.29</money>
+              <moneymain>286560.29</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>47</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR154,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>291500.56</debitamount>
+          <localdebitamount>291500.56</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>291500.56</money>
+              <moneymain>291500.56</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>48</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR154,000.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>291500.56</creditamount>
+          <localcreditamount>291500.56</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>291500.56</money>
+              <moneymain>291500.56</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>49</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD372,494.05</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2911145.27</debitamount>
+          <localdebitamount>2911145.27</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2911145.27</money>
+              <moneymain>2911145.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>50</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 USD372,494.05</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2911145.27</creditamount>
+          <localcreditamount>2911145.27</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2911145.27</money>
+              <moneymain>2911145.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>51</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR1,564,475.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2961333.4</debitamount>
+          <localdebitamount>2961333.4</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2961333.4</money>
+              <moneymain>2961333.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>52</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR1,564,475.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2961333.4</creditamount>
+          <localcreditamount>2961333.4</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2961333.4</money>
+              <moneymain>2961333.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>53</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG USD45.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>353.25</debitamount>
+          <localdebitamount>353.25</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>353.25</money>
+              <moneymain>353.25</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>54</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG USD45.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>353.25</creditamount>
+          <localcreditamount>353.25</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>353.25</money>
+              <moneymain>353.25</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>55</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG MYR183.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>347.53</debitamount>
+          <localdebitamount>347.53</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>347.53</money>
+              <moneymain>347.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>56</detailindex>
+          <explanation>2022-03-28 其他  上手號：CGSSG MYR183.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>347.53</creditamount>
+          <localcreditamount>347.53</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>347.53</money>
+              <moneymain>347.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>57</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR1,319.04</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2496.76</debitamount>
+          <localdebitamount>2496.76</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>122130</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050449</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>ZLZB0004</pk_Checktype>
+              <pk_Checkvalue>01</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2496.76</money>
+              <moneymain>2496.76</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>58</detailindex>
+          <explanation>2022-03-28 其他  上手號：PHLSGCQG02 MYR1,319.04</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2496.76</creditamount>
+          <localcreditamount>2496.76</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>2496.76</money>
+              <moneymain>2496.76</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>59</detailindex>
+          <explanation>2022-03-28 手續費調整  上手號：PHLSGCQG02 USD2.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>18.76</debitamount>
+          <localdebitamount>18.76</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>60</detailindex>
+          <explanation>2022-03-28 手續費調整  上手號：PHLSGCQG02 USD2.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>18.76</creditamount>
+          <localcreditamount>18.76</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>61</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100002 USD30.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>234.46</debitamount>
+          <localdebitamount>234.46</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>62</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100002 USD30.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>234.46</creditamount>
+          <localcreditamount>234.46</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>63</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100001 USD7,063.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>55199.32</debitamount>
+          <localdebitamount>55199.32</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>64</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100001 USD7,063.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>55199.32</creditamount>
+          <localcreditamount>55199.32</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>65</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：106688 USD80.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>625.22</debitamount>
+          <localdebitamount>625.22</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>66</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：106688 USD80.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>625.22</creditamount>
+          <localcreditamount>625.22</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>67</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100018 USD1,950.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>15239.8</debitamount>
+          <localdebitamount>15239.8</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>68</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100018 USD1,950.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>15239.8</creditamount>
+          <localcreditamount>15239.8</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>69</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：174227 USD175.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1367.67</debitamount>
+          <localdebitamount>1367.67</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>70</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：174227 USD175.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1367.67</creditamount>
+          <localcreditamount>1367.67</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>71</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100005 USD8,855.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>69204.3</debitamount>
+          <localdebitamount>69204.3</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>72</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100005 USD8,855.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>69204.3</creditamount>
+          <localcreditamount>69204.3</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>73</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：170001 USD12.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>93.78</debitamount>
+          <localdebitamount>93.78</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>74</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：170001 USD12.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>93.78</creditamount>
+          <localcreditamount>93.78</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>75</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100613 USD5.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>39.08</debitamount>
+          <localdebitamount>39.08</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>76</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100613 USD5.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>39.08</creditamount>
+          <localcreditamount>39.08</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>77</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：101023 USD2,239.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>17502.32</debitamount>
+          <localdebitamount>17502.32</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>78</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：101023 USD2,239.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>17502.32</creditamount>
+          <localcreditamount>17502.32</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>79</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：108880 USD770.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>6017.77</debitamount>
+          <localdebitamount>6017.77</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>80</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：108880 USD770.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>6017.77</creditamount>
+          <localcreditamount>6017.77</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>81</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：129999 USD1,630.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>12738.91</debitamount>
+          <localdebitamount>12738.91</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>82</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：129999 USD1,630.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>12738.91</creditamount>
+          <localcreditamount>12738.91</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>83</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100639 MYR1,350.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2555.36</debitamount>
+          <localdebitamount>2555.36</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>84</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：100639 MYR1,350.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2555.36</creditamount>
+          <localcreditamount>2555.36</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>85</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：103594 USD36.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>281.35</debitamount>
+          <localdebitamount>281.35</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>86</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：103594 USD36.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>281.35</creditamount>
+          <localcreditamount>281.35</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>87</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：103594 HKD2,160.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>2160</debitamount>
+          <localdebitamount>2160</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>88</detailindex>
+          <explanation>2022-03-28 手續費  客戶號：103594 HKD2,160.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>2160</creditamount>
+          <localcreditamount>2160</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>601201</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0001</pk_Checktype>
+              <pk_Checkvalue>0009</pk_Checkvalue>
+            </item>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+        </item>
+        <item>
+          <detailindex>89</detailindex>
+          <explanation>2022-03-25 期權市值  上手合計 基幣 198,995.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1555201.63</creditamount>
+          <localcreditamount>1555201.63</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1555201.63</money>
+              <moneymain>1555201.63</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>90</detailindex>
+          <explanation>2022-03-25 期權市值  客戶合計 基幣 198,995.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1555201.63</debitamount>
+          <localdebitamount>1555201.63</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1555201.63</money>
+              <moneymain>1555201.63</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>91</detailindex>
+          <explanation>2022-03-25 期權市值  上手合計 基幣 12,618.75</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>98619.06</debitamount>
+          <localdebitamount>98619.06</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>98619.06</money>
+              <moneymain>98619.06</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>92</detailindex>
+          <explanation>2022-03-25 期權市值  上手合計 基幣 1,479,950.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>11566223.52</debitamount>
+          <localdebitamount>11566223.52</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>11566223.52</money>
+              <moneymain>11566223.52</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>93</detailindex>
+          <explanation>2022-03-25 期權市值  上手合計 基幣 11,271,562.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>88090416.07</debitamount>
+          <localdebitamount>88090416.07</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>88090416.07</money>
+              <moneymain>88090416.07</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>94</detailindex>
+          <explanation>2022-03-25 期權市值  上手合計 基幣 771,120.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>6026518.65</debitamount>
+          <localdebitamount>6026518.65</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6026518.65</money>
+              <moneymain>6026518.65</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>95</detailindex>
+          <explanation>2022-03-25 期權市值  客戶合計 基幣 12,618.75</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>98619.06</creditamount>
+          <localcreditamount>98619.06</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>98619.06</money>
+              <moneymain>98619.06</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>96</detailindex>
+          <explanation>2022-03-25 期權市值  客戶合計 基幣 1,479,950.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>11566223.52</creditamount>
+          <localcreditamount>11566223.52</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>11566223.52</money>
+              <moneymain>11566223.52</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>97</detailindex>
+          <explanation>2022-03-25 期權市值  客戶合計 基幣 11,271,562.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>88090416.07</creditamount>
+          <localcreditamount>88090416.07</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>88090416.07</money>
+              <moneymain>88090416.07</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>98</detailindex>
+          <explanation>2022-03-25 期權市值  客戶合計 基幣 771,120.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>6026518.65</creditamount>
+          <localcreditamount>6026518.65</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6026518.65</money>
+              <moneymain>6026518.65</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>99</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 42,513,775.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>332257052.08</creditamount>
+          <localcreditamount>332257052.08</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>332257052.08</money>
+              <moneymain>332257052.08</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>100</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 26,421,213.80</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>206489181.67</creditamount>
+          <localcreditamount>206489181.67</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>206489181.67</money>
+              <moneymain>206489181.67</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>101</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 42,513,775.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>332257052.08</debitamount>
+          <localdebitamount>332257052.08</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>332257052.08</money>
+              <moneymain>332257052.08</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>102</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 26,421,213.80</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>206489181.67</debitamount>
+          <localdebitamount>206489181.67</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>206489181.67</money>
+              <moneymain>206489181.67</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>103</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 779,997.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>6095898.8</debitamount>
+          <localdebitamount>6095898.8</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6095898.8</money>
+              <moneymain>6095898.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>104</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 4,819,513.58</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>37665847.77</debitamount>
+          <localdebitamount>37665847.77</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>37665847.77</money>
+              <moneymain>37665847.77</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>105</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 1,292.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>10097.34</debitamount>
+          <localdebitamount>10097.34</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10097.34</money>
+              <moneymain>10097.34</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>106</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 500,955.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>3915103.55</debitamount>
+          <localdebitamount>3915103.55</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3915103.55</money>
+              <moneymain>3915103.55</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>107</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 152,057.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1188371.93</debitamount>
+          <localdebitamount>1188371.93</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1188371.93</money>
+              <moneymain>1188371.93</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>108</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 27,426,787.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>214348021.62</debitamount>
+          <localdebitamount>214348021.62</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>214348021.62</money>
+              <moneymain>214348021.62</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>109</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 511,758.18</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>3999533.4</debitamount>
+          <localdebitamount>3999533.4</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3999533.4</money>
+              <moneymain>3999533.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>110</detailindex>
+          <explanation>2022-03-25 浮動盈虧  上手合計 基幣 11,602,390.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>90675929.48</debitamount>
+          <localdebitamount>90675929.48</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>90675929.48</money>
+              <moneymain>90675929.48</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>111</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 779,997.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>6095898.8</creditamount>
+          <localcreditamount>6095898.8</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6095898.8</money>
+              <moneymain>6095898.8</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>112</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 4,819,513.58</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>37665847.77</creditamount>
+          <localcreditamount>37665847.77</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>37665847.77</money>
+              <moneymain>37665847.77</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>113</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 1,292.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>10097.34</creditamount>
+          <localcreditamount>10097.34</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10097.34</money>
+              <moneymain>10097.34</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>114</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 500,955.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>3915103.55</creditamount>
+          <localcreditamount>3915103.55</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3915103.55</money>
+              <moneymain>3915103.55</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>115</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 152,057.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1188371.93</creditamount>
+          <localcreditamount>1188371.93</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>1188371.93</money>
+              <moneymain>1188371.93</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>116</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 27,426,787.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>214348021.62</creditamount>
+          <localcreditamount>214348021.62</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>214348021.62</money>
+              <moneymain>214348021.62</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>117</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 511,758.18</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>3999533.4</creditamount>
+          <localcreditamount>3999533.4</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>3999533.4</money>
+              <moneymain>3999533.4</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>118</detailindex>
+          <explanation>2022-03-25 浮動盈虧  客户合計 基幣 11,602,390.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>90675929.48</creditamount>
+          <localcreditamount>90675929.48</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>90675929.48</money>
+              <moneymain>90675929.48</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>119</detailindex>
+          <explanation>2022-03-28 平倉盈虧  上手合計 基幣 -249.51</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>-1950</debitamount>
+          <localdebitamount>-1950</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-1950</money>
+              <moneymain>-1950</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>120</detailindex>
+          <explanation>2022-03-28 平倉盈虧  上手合計 基幣 7,500.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>58614.6</debitamount>
+          <localdebitamount>58614.6</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>58614.6</money>
+              <moneymain>58614.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>121</detailindex>
+          <explanation>2022-03-28 平倉盈虧  上手合計 基幣 -21,480.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>-167872.21</debitamount>
+          <localdebitamount>-167872.21</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-167872.21</money>
+              <moneymain>-167872.21</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>122</detailindex>
+          <explanation>2022-03-28 平倉盈虧  上手合計 基幣 2,224,986.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>17388891.53</debitamount>
+          <localdebitamount>17388891.53</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>17388891.53</money>
+              <moneymain>17388891.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>123</detailindex>
+          <explanation>2022-03-28 平倉盈虧  上手合計 基幣 -4,059,188.27</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>-31723692.54</debitamount>
+          <localdebitamount>-31723692.54</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-31723692.54</money>
+              <moneymain>-31723692.54</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>124</detailindex>
+          <explanation>2022-03-28 平倉盈虧 客戶合計 基幣 -249.51</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>-1950</creditamount>
+          <localcreditamount>-1950</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-1950</money>
+              <moneymain>-1950</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>125</detailindex>
+          <explanation>2022-03-28 平倉盈虧 客戶合計 基幣 7,500.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>58614.6</creditamount>
+          <localcreditamount>58614.6</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>58614.6</money>
+              <moneymain>58614.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>126</detailindex>
+          <explanation>2022-03-28 平倉盈虧 客戶合計 基幣 -21,480.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>-167872.21</creditamount>
+          <localcreditamount>-167872.21</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-167872.21</money>
+              <moneymain>-167872.21</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>127</detailindex>
+          <explanation>2022-03-28 平倉盈虧 客戶合計 基幣 2,224,986.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>17388891.53</creditamount>
+          <localcreditamount>17388891.53</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>17388891.53</money>
+              <moneymain>17388891.53</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>128</detailindex>
+          <explanation>2022-03-28 平倉盈虧 客戶合計 基幣 -4,059,188.27</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>-31723692.54</creditamount>
+          <localcreditamount>-31723692.54</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>-31723692.54</money>
+              <moneymain>-31723692.54</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>129</detailindex>
+          <explanation>2022-03-28 期權市值  上手合計 基幣 71,580.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>559417.74</debitamount>
+          <localdebitamount>559417.74</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>559417.74</money>
+              <moneymain>559417.74</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>130</detailindex>
+          <explanation>2022-03-28 期權市值  客戶合計 基幣 71,580.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>559417.74</creditamount>
+          <localcreditamount>559417.74</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>559417.74</money>
+              <moneymain>559417.74</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>131</detailindex>
+          <explanation>2022-03-28 期權市值  上手合計 基幣 12,631.25</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>98716.75</creditamount>
+          <localcreditamount>98716.75</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>98716.75</money>
+              <moneymain>98716.75</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>132</detailindex>
+          <explanation>2022-03-28 期權市值  上手合計 基幣 1,961,293.75</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>15328059.66</creditamount>
+          <localcreditamount>15328059.66</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>15328059.66</money>
+              <moneymain>15328059.66</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>133</detailindex>
+          <explanation>2022-03-28 期權市值  上手合計 基幣 11,592,500.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>90598632.47</creditamount>
+          <localcreditamount>90598632.47</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>90598632.47</money>
+              <moneymain>90598632.47</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>134</detailindex>
+          <explanation>2022-03-28 期權市值  上手合計 基幣 772,307.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>6035796.95</creditamount>
+          <localcreditamount>6035796.95</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6035796.95</money>
+              <moneymain>6035796.95</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>135</detailindex>
+          <explanation>2022-03-28 期權市值  客戶合計 基幣 12,631.25</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>98716.75</debitamount>
+          <localdebitamount>98716.75</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>98716.75</money>
+              <moneymain>98716.75</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>136</detailindex>
+          <explanation>2022-03-28 期權市值  客戶合計 基幣 1,961,293.75</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>15328059.66</debitamount>
+          <localdebitamount>15328059.66</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>15328059.66</money>
+              <moneymain>15328059.66</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>137</detailindex>
+          <explanation>2022-03-28 期權市值  客戶合計 基幣 11,592,500.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>90598632.47</debitamount>
+          <localdebitamount>90598632.47</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>90598632.47</money>
+              <moneymain>90598632.47</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>138</detailindex>
+          <explanation>2022-03-28 期權市值  客戶合計 基幣 772,307.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>6035796.95</debitamount>
+          <localdebitamount>6035796.95</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>6035796.95</money>
+              <moneymain>6035796.95</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>139</detailindex>
+          <explanation>2022-03-28 權利金  上手合計 基幣 73,600.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>575204.6</debitamount>
+          <localdebitamount>575204.6</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>575204.6</money>
+              <moneymain>575204.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>140</detailindex>
+          <explanation>2022-03-28 權利金 客戶合計 基幣 73,600.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>575204.6</creditamount>
+          <localcreditamount>575204.6</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>575204.6</money>
+              <moneymain>575204.6</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>141</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 90,667.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>708591.89</debitamount>
+          <localdebitamount>708591.89</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>708591.89</money>
+              <moneymain>708591.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>142</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 41,245,025.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>322341415.68</debitamount>
+          <localdebitamount>322341415.68</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>322341415.68</money>
+              <moneymain>322341415.68</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>143</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 28,459,819.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>222421451.96</debitamount>
+          <localdebitamount>222421451.96</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>222421451.96</money>
+              <moneymain>222421451.96</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>144</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 90,667.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>708591.89</creditamount>
+          <localcreditamount>708591.89</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>708591.89</money>
+              <moneymain>708591.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>145</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 41,245,025.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>322341415.68</creditamount>
+          <localcreditamount>322341415.68</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>322341415.68</money>
+              <moneymain>322341415.68</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>146</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 28,459,819.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>222421451.96</creditamount>
+          <localcreditamount>222421451.96</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>222421451.96</money>
+              <moneymain>222421451.96</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>147</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 755,147.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>5901689.09</creditamount>
+          <localcreditamount>5901689.09</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>5901689.09</money>
+              <moneymain>5901689.09</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>148</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 4,488,486.73</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>35078780.27</creditamount>
+          <localcreditamount>35078780.27</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>35078780.27</money>
+              <moneymain>35078780.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>149</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 1,386.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>10831.98</creditamount>
+          <localcreditamount>10831.98</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10831.98</money>
+              <moneymain>10831.98</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>150</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 700,455.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>5474251.9</creditamount>
+          <localcreditamount>5474251.9</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>5474251.9</money>
+              <moneymain>5474251.9</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>151</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 7,022,150.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>54880067.89</creditamount>
+          <localcreditamount>54880067.89</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54880067.89</money>
+              <moneymain>54880067.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>152</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 544,263.13</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>4253568.69</creditamount>
+          <localcreditamount>4253568.69</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>4253568.69</money>
+              <moneymain>4253568.69</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>153</detailindex>
+          <explanation>2022-03-28 浮動盈虧  上手合計 基幣 6,961,752.73</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>54408046.36</creditamount>
+          <localcreditamount>54408046.36</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54408046.36</money>
+              <moneymain>54408046.36</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>154</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 755,147.50</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>5901689.09</debitamount>
+          <localdebitamount>5901689.09</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>5901689.09</money>
+              <moneymain>5901689.09</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>155</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 4,488,486.73</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>35078780.27</debitamount>
+          <localdebitamount>35078780.27</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>35078780.27</money>
+              <moneymain>35078780.27</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>156</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 1,386.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>10831.98</debitamount>
+          <localdebitamount>10831.98</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>10831.98</money>
+              <moneymain>10831.98</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>157</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 700,455.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>5474251.9</debitamount>
+          <localdebitamount>5474251.9</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>5474251.9</money>
+              <moneymain>5474251.9</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>158</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 7,022,150.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>54880067.89</debitamount>
+          <localdebitamount>54880067.89</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54880067.89</money>
+              <moneymain>54880067.89</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>159</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 544,263.13</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>4253568.69</debitamount>
+          <localdebitamount>4253568.69</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>4253568.69</money>
+              <moneymain>4253568.69</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>160</detailindex>
+          <explanation>2022-03-28 浮動盈虧  客户合計 基幣 6,961,752.73</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>54408046.36</debitamount>
+          <localdebitamount>54408046.36</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>220403</pk_accasoa>
+          <ass>
+            <item>
+              <pk_Checktype>0004</pk_Checktype>
+              <pk_Checkvalue>ZLZB2020050259</pk_Checkvalue>
+            </item>
+          </ass>
+          <cashFlow>
+            <item>
+              <m_pk_currtype>HKD</m_pk_currtype>
+              <money>54408046.36</money>
+              <moneymain>54408046.36</moneymain>
+              <moneyglobal />
+              <moneygroup />
+              <pk_cashflow />
+            </item>
+          </cashFlow>
+        </item>
+        <item>
+          <detailindex>161</detailindex>
+          <explanation>2022-03-28 手續費  上手號：CGSSG USD45.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>353.25</debitamount>
+          <localdebitamount>353.25</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>162</detailindex>
+          <explanation>2022-03-28 手續費  上手號：CGSSG USD45.20</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>353.25</creditamount>
+          <localcreditamount>353.25</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>163</detailindex>
+          <explanation>2022-03-28 手續費  上手號：EDFMANTT USD3.36</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>26.26</debitamount>
+          <localdebitamount>26.26</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>164</detailindex>
+          <explanation>2022-03-28 手續費  上手號：EDFMANTT USD3.36</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>26.26</creditamount>
+          <localcreditamount>26.26</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>165</detailindex>
+          <explanation>2022-03-28 手續費  上手號：FCSTONECME USD151.63</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>1185.03</debitamount>
+          <localdebitamount>1185.03</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>166</detailindex>
+          <explanation>2022-03-28 手續費  上手號：FCSTONECME USD151.63</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>1185.03</creditamount>
+          <localcreditamount>1185.03</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>167</detailindex>
+          <explanation>2022-03-28 手續費  上手號：HGNHCME USD4,479.96</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>35012.14</debitamount>
+          <localdebitamount>35012.14</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>168</detailindex>
+          <explanation>2022-03-28 手續費  上手號：HGNHCME USD4,479.96</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>35012.14</creditamount>
+          <localcreditamount>35012.14</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>169</detailindex>
+          <explanation>2022-03-28 手續費  上手號：MAREXCME USD5,616.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>43895.3</debitamount>
+          <localdebitamount>43895.3</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>170</detailindex>
+          <explanation>2022-03-28 手續費  上手號：MAREXCME USD5,616.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>43895.3</creditamount>
+          <localcreditamount>43895.3</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>171</detailindex>
+          <explanation>2022-03-28 手續費  上手號：MAREXCQG USD2,028.43</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>15852.75</debitamount>
+          <localdebitamount>15852.75</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>172</detailindex>
+          <explanation>2022-03-28 手續費  上手號：MAREXCQG USD2,028.43</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>15852.75</creditamount>
+          <localcreditamount>15852.75</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>173</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSG USD15.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>121.92</debitamount>
+          <localdebitamount>121.92</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>174</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSG USD15.60</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>121.92</creditamount>
+          <localcreditamount>121.92</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>175</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSGCQG02 USD1,865.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>14578.62</debitamount>
+          <localdebitamount>14578.62</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>176</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSGCQG02 USD1,865.40</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>14578.62</creditamount>
+          <localcreditamount>14578.62</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>177</detailindex>
+          <explanation>2022-03-28 手續費  上手號：CFISG HKD870.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>870</debitamount>
+          <localdebitamount>870</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>178</detailindex>
+          <explanation>2022-03-28 手續費  上手號：CFISG HKD870.00</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>870</creditamount>
+          <localcreditamount>870</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>179</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSGCQG02 MYR360.72</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <debitquantity>0.00000000</debitquantity>
+          <debitamount>682.79</debitamount>
+          <localdebitamount>682.79</localdebitamount>
+          <groupdebitamount>0.00000000</groupdebitamount>
+          <globaldebitamount>0.00000000</globaldebitamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>642102</pk_accasoa>
+        </item>
+        <item>
+          <detailindex>180</detailindex>
+          <explanation>2022-03-28 手續費  上手號：PHLSGCQG02 MYR360.72</explanation>
+          <verifydate>2023-03-13 11:10:32</verifydate>
+          <price>0.00000000</price>
+          <excrate2>1</excrate2>
+          <creditquantity>0.00000000</creditquantity>
+          <creditamount>682.79</creditamount>
+          <localcreditamount>682.79</localcreditamount>
+          <groupcreditamount>0.00000000</groupcreditamount>
+          <globalcreditamount>0.00000000</globalcreditamount>
+          <pk_currtype>HKD</pk_currtype>
+          <pk_accasoa>112406</pk_accasoa>
+        </item>
+      </details>
+    </voucher_head>
+  </voucher>
+</ufinterface>

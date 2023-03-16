@@ -40,7 +40,7 @@ def alterxmlbug(name_of_user,DC,FC):
     # print(i)
 
 
-@Gooey(program_name="易盛用友数据修正程序1.0",language='chinese', default_size=(610,600),encoding='cp936')
+@Gooey(program_name="易盛用友数据修正程序1.1",language='chinese', default_size=(610,600),encoding='cp936')
 def main():
 
     name_of_user = ''
@@ -57,7 +57,7 @@ def main():
                            action= "store_true",)
     a = verbosity.add_argument( '--c', dest='chenyanlin',
                            action="store_true",)
-    b = verbosity.add_argument( '--vl', dest='vernalin',
+    b = verbosity.add_argument( '--vl', dest='VernaLIN',
                            action="store_true",)
     c = verbosity.add_argument('--sq', dest='XGIT',
                            action="store_true",)

@@ -17,12 +17,14 @@ root = tree.getroot()  # 类Element
 # print(year)
 
 details = root.find('voucher').find('voucher_head').find('details')
+item1 = details.find('item')
+print(ET.tostring(item1))
 
-items = details.findall('item')
-test = root.find('12321')
-print(test)
-for item in items:
-    explanation = item.find('explanation').text
+# items = details.findall('item')
+# test = root.find('12321')
+# print(test)
+# for item in items:
+#     explanation = item.find('explanation').text
     # print(explanation)
 
 # print(ET.tostring(item))
